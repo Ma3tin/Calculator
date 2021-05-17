@@ -1,0 +1,4 @@
+cz/educanet/Main.java
+ cz.educanet.Main
+cz/educanet/Logic.java
+ cz.educanet.Logic

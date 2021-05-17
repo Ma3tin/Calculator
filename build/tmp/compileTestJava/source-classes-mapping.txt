@@ -1,0 +1,2 @@
+cz/educanet/MainTest.java
+ cz.educanet.MainTest

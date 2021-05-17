@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cz.educanet.MainTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-14T12:06:55" hostname="MARTIN" time="0.037">
+  <properties/>
+  <testcase name="divide()" classname="cz.educanet.MainTest" time="0.023"/>
+  <testcase name="factorial()" classname="cz.educanet.MainTest" time="0.001"/>
+  <testcase name="plus()" classname="cz.educanet.MainTest" time="0.001"/>
+  <testcase name="minus()" classname="cz.educanet.MainTest" time="0.0"/>
+  <testcase name="power()" classname="cz.educanet.MainTest" time="0.005"/>
+  <testcase name="times()" classname="cz.educanet.MainTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
